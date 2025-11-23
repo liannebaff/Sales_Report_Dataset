@@ -3,7 +3,7 @@
 ### 📝 Project Summary
 This Power BI project analyses sales data to provide insights into company performance, trends and customer behaviour. The interactive dashboard enables users to explore sales and profit across product categories and segments, countries and years. The aim was to create an interactive reporting tool to support business decision-making and highlight trends in revenue and profit.
 
-[View dashboard on Power BI online](https://app.powerbi.com/links/GCNBri31iT?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
+🔗 [View dashboard on Power BI online](https://app.powerbi.com/links/GCNBri31iT?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
 ### 🗂️ Dataset Overview
 - The dataset consists of two related tables (by Order ID):
@@ -72,7 +72,7 @@ The dashboard combines multiple visualisations to provide an interactive view of
 
 <img width="1324" height="760" alt="image" src="https://github.com/user-attachments/assets/d724b25d-28f5-42f5-8ec2-3f770f12a3a6" />
 
-[Download Sales Report PDF](Sales_Report_Dashboard_PDF.pdf) |
+⤵️ [Download Sales Report PDF](files/Sales_Report_Dashboard_PDF.pdf) | 🔗
 [View dashboard on Power BI online](https://app.powerbi.com/links/GCNBri31iT?ctid=3ea7c128-c601-4479-a003-e14d00c0b5cb&pbi_source=linkShare)
 
 ----
