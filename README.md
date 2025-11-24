@@ -12,7 +12,7 @@ This Power BI project analyses sales data to provide insights into company perfo
 - The dataset is comprised of sales transactions between 2011 and 2014.
   
 ### 🎯 Key Skills Demonstrated:
-`POWER BI DESKTOP` &nbsp; `POWER BI ONLINE` &nbsp; `POWER QUERY` `DASHBOARD DESIGN` &nbsp; `DASHBOARD INTERACTIVITY` &nbsp; `FILTERS`
+`POWER BI DESKTOP` &nbsp; `POWER BI ONLINE` &nbsp; `POWER QUERY` `DASHBOARD DESIGN` &nbsp; `DASHBOARD INTERACTIVITY` &nbsp; `FILTERS` &nbsp; `SLICERS`
 
 ----
 
@@ -66,7 +66,7 @@ The dashboard combines multiple visualisations to provide an interactive view of
 - Filters enable users to focus on specific countries.
 
 **4) Total Profit by Country and Category** (stacked column chart)
-- Stacked bar chart illustrating how total profit varies across countries and different  product categories, sorted in descending order of profit.
+- Stacked column chart illustrating how total profit varies across countries and different  product categories, sorted in descending order of profit.
 - Each segment of the column represents a product category within that country.
 - Enables quick comparison of profit contributions from different categories across countries.
 
